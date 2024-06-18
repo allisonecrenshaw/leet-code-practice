@@ -1,0 +1,3 @@
+# In TS directory, ignore all JS files
+# These are auto-created to easily run TS files for results
+*.js

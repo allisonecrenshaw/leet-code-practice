@@ -1,0 +1,6 @@
+To run TypeScript files in VS Code:
+
+1. Bring up terminal in VS Code with ctrl + `
+2. Use command 'tsc myFile.ts' to generate a .js copy
+3. Run command 'node myFile.js' to run the JS file
+   Note: Requires TypeScript and Node to already be installed.
